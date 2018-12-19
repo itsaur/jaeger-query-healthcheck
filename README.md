@@ -1,2 +1,2 @@
-# jaeger-query-heatchcheck
-Jeager query with healthcheck
+# jaeger-query-healthcheck
+Jaeger Query with healthcheck
